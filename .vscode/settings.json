@@ -1,0 +1,23 @@
+{
+    
+    
+         "python.jediEnabled": false,
+        "files.autoSave": "afterDelay",
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": 
+        "automaticallyOverrodeDefaultValue",
+        "editor.minimap.enabled": true,
+        "workbench.colorTheme": "Monokai",
+        "editor.largeFileOptimizations": false,
+        "html.format.indentInnerHtml": true,
+        "html.format.indentHandlebars": true,
+        "emmet.includeLanguages": {"django-html": "html"},
+        "[django-html]": {
+        
+        },
+        "files.associations": {
+            "*.html": "html"
+        },
+        "python.pythonPath": "C:\\Users\\mayan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "python.languageServer": "Microsoft"
+}
