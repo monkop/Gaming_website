@@ -25,7 +25,7 @@ SECRET_KEY = '5sx_sjuk22-mcdh2b#^1q9+o0d2jg0dc^^&$5ttl+rjf05gsy3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','gamingwithmonk.herokuapp.com']
 
 
 # Application definition
